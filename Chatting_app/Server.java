@@ -10,7 +10,7 @@ import java.net.*;
 import java.io.*;
 
 //public class Server extends JFrame implements ActionListener {
-//upar wala nahi use kr rhe hai kyonki JFrame ko static banana hai kyonki uska use main function me ho rha hai joki static hai . ab main function ko to non-static bana nahi skte hai isiliye JFrame ko static banana pr rha hai. uske liye ab hm JFrame class ko direct extend nahi kr paayenge isiliye JFrame ka ek object bana lenge aur tb uska use krke hr jagah f. laga lenge.
+
 public class Server implements ActionListener {
 	JTextField text;
 	static JPanel a1;
